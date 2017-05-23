@@ -1,0 +1,6 @@
+commands:
+
+ng server - start app
+
+ng g c name
+ng generate component name
